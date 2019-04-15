@@ -1,0 +1,1010 @@
+181.133.110.250 Colombia Bucaramanga CO -73.1198 7.1254
+181.133.110.250 Colombia Bucaramanga CO -73.1198 7.1254
+190.27.4.218 Colombia Bogotá CO -74.0617 4.6493
+181.18.114.129 Venezuela None VE -66.0 8.0
+186.155.80.226 Colombia Medellín CO -75.5646 6.2529
+190.84.129.223 Colombia Tuluá CO -76.1954 4.0847
+201.245.254.86 Colombia Bogotá CO -74.0617 4.6493
+190.158.8.57 Colombia Bogotá CO -74.0617 4.6493
+191.102.208.75 Colombia Medellín CO -75.5646 6.2529
+190.158.27.64 Colombia Bogotá CO -74.0617 4.6493
+190.216.129.188 Colombia Bogotá CO -74.0617 4.6493
+200.21.21.42 Colombia None CO -74.0758 4.5981
+190.131.250.130 Colombia Bogotá CO -74.0617 4.6493
+190.217.53.74 Colombia None CO -74.0758 4.5981
+181.48.204.162 Colombia Bogotá CO -74.0617 4.6493
+186.179.100.48 Colombia None CO -74.0758 4.5981
+201.245.168.123 Colombia Bogotá CO -74.0617 4.6493
+186.81.146.123 Colombia Bogotá CO -74.0617 4.6493
+201.245.168.123 Colombia Bogotá CO -74.0617 4.6493
+200.29.116.194 Colombia None CO -74.0758 4.5981
+165.225.32.81 United States None US -81.6221 28.6344
+190.24.88.197 Colombia Medellín CO -75.5646 6.2529
+181.128.105.61 Colombia Medellín CO -75.5646 6.2529
+190.60.202.66 Colombia Bogotá CO -74.0617 4.6493
+37.173.10.244 France Paris FR 2.3527 48.8543
+181.49.74.62 Colombia Bogotá CO -74.0617 4.6493
+191.91.230.241 Colombia None CO -74.0758 4.5981
+191.91.230.241 Colombia None CO -74.0758 4.5981
+190.144.170.10 Colombia Barranquilla CO -74.7837 10.9711
+190.159.58.222 Colombia Bogotá CO -74.0617 4.6493
+200.16.119.141 Colombia Bucaramanga CO -73.1198 7.1254
+190.131.250.137 Colombia Bogotá CO -74.0617 4.6493
+200.69.105.194 Colombia Bogotá CO -74.0617 4.6493
+181.49.74.62 Colombia Bogotá CO -74.0617 4.6493
+190.24.88.197 Colombia Medellín CO -75.5646 6.2529
+186.30.65.21 Colombia Bogotá CO -74.0617 4.6493
+190.157.136.28 Colombia Medellín CO -75.5646 6.2529
+190.184.164.41 Colombia Bucaramanga CO -73.1198 7.1254
+200.30.87.241 Colombia Medellín CO -75.5646 6.2529
+181.49.85.200 Colombia Santiago de Cali CO -76.5232 3.4384
+190.242.117.2 Colombia Bogotá CO -74.0617 4.6493
+186.176.251.230 Costa Rica San José CR -84.1366 9.9499
+181.143.139.122 Colombia Medellín CO -75.5646 6.2529
+200.16.119.141 Colombia Bucaramanga CO -73.1198 7.1254
+181.49.74.62 Colombia Bogotá CO -74.0617 4.6493
+213.221.200.82 Switzerland Bern CH 7.4481 46.9458
+213.221.200.82 Switzerland Bern CH 7.4481 46.9458
+213.221.200.82 Switzerland Bern CH 7.4481 46.9458
+181.48.204.162 Colombia Bogotá CO -74.0617 4.6493
+213.221.200.82 Switzerland Bern CH 7.4481 46.9458
+213.221.200.82 Switzerland Bern CH 7.4481 46.9458
+213.221.200.82 Switzerland Bern CH 7.4481 46.9458
+199.19.251.85 United States None US -81.6221 28.6344
+181.141.148.190 Colombia Medellín CO -75.5646 6.2529
+190.15.17.5 Colombia Bogotá CO -74.0617 4.6493
+38.100.10.130 United States Arlington US -77.0911 38.8865
+181.49.142.235 Colombia Bogotá CO -74.0617 4.6493
+189.142.44.20 Mexico Pachuca MX -98.7561 20.1085
+200.24.16.166 Colombia Medellín CO -75.5646 6.2529
+200.24.16.166 Colombia Medellín CO -75.5646 6.2529
+200.24.16.166 Colombia Medellín CO -75.5646 6.2529
+190.97.158.210 Colombia None CO -74.0758 4.5981
+186.31.184.192 Colombia Medellín CO -75.5646 6.2529
+163.117.92.15 Spain Madrid ES -3.6839 40.4171
+201.234.181.230 Colombia Medellín CO -75.5646 6.2529
+201.234.181.230 Colombia Medellín CO -75.5646 6.2529
+190.79.104.117 Venezuela Agua Fria VE -66.8875 10.3286
+200.3.152.79 Colombia Bogotá CO -74.0617 4.6493
+200.118.185.20 Colombia Bogotá CO -74.0617 4.6493
+77.111.246.5 United States None US -97.822 37.751
+167.249.43.43 Colombia Neiva CO -75.2819 2.9273
+186.155.13.24 Colombia Bogotá CO -74.0617 4.6493
+191.92.112.243 Colombia Medellín CO -75.5646 6.2529
+155.210.105.109 Spain Zaragoza ES -0.8773 41.6561
+200.29.116.194 Colombia None CO -74.0758 4.5981
+191.92.112.243 Colombia Medellín CO -75.5646 6.2529
+157.253.188.54 Colombia Bogotá CO -74.0617 4.6493
+148.129.71.41 United States Temple Hills US -76.9478 38.8222
+181.135.226.146 Colombia Medellín CO -75.5646 6.2529
+186.146.112.231 Colombia Santiago de Cali CO -76.5232 3.4384
+190.251.127.188 Colombia Rionegro CO -75.3737 6.1551
+190.251.127.188 Colombia Rionegro CO -75.3737 6.1551
+190.251.127.188 Colombia Rionegro CO -75.3737 6.1551
+186.86.29.244 Colombia Medellín CO -75.5646 6.2529
+190.251.127.188 Colombia Rionegro CO -75.3737 6.1551
+190.251.127.188 Colombia Rionegro CO -75.3737 6.1551
+195.221.75.40 France Paris FR 2.3281 48.8607
+190.145.152.1 Colombia Medellín CO -75.5646 6.2529
+200.118.153.138 Colombia Medellín CO -75.5646 6.2529
+190.70.226.74 Colombia Chinchina CO -75.6036 4.9825
+200.25.59.65 Colombia None CO -74.0758 4.5981
+167.249.43.43 Colombia Neiva CO -75.2819 2.9273
+186.155.241.138 Colombia Bogotá CO -74.0617 4.6493
+186.155.90.248 Colombia Bogotá CO -74.0617 4.6493
+201.216.36.19 Colombia Medellín CO -75.5646 6.2529
+181.49.105.132 Colombia Medellín CO -75.5646 6.2529
+130.88.142.12 United Kingdom Manchester GB -2.1959 53.5039
+130.88.142.12 United Kingdom Manchester GB -2.1959 53.5039
+130.88.142.12 United Kingdom Manchester GB -2.1959 53.5039
+201.184.78.26 Colombia Bogotá CO -74.0617 4.6493
+130.88.142.12 United Kingdom Manchester GB -2.1959 53.5039
+186.30.46.141 Colombia Bogotá CO -74.0617 4.6493
+200.118.231.61 Colombia Bogotá CO -74.0617 4.6493
+181.130.149.23 Colombia Bogotá CO -74.0617 4.6493
+181.134.153.155 Colombia Medellín CO -75.5646 6.2529
+167.249.43.43 Colombia Neiva CO -75.2819 2.9273
+201.245.162.125 Colombia Bogotá CO -74.0617 4.6493
+167.249.43.43 Colombia Neiva CO -75.2819 2.9273
+190.26.201.154 Colombia None CO -74.0758 4.5981
+201.245.162.125 Colombia Bogotá CO -74.0617 4.6493
+168.202.253.226 Italy Rome IT 12.5124 41.8904
+168.202.253.226 Italy Rome IT 12.5124 41.8904
+136.152.143.42 United States Berkeley US -122.2549 37.8738
+190.70.77.43 Colombia Manizales CO -75.5174 5.0689
+191.88.161.102 Colombia Medellín CO -75.5646 6.2529
+190.27.89.60 Colombia Bogotá CO -74.0617 4.6493
+165.225.38.73 United States New York US -73.9531 40.8019
+186.86.31.65 Colombia Medellín CO -75.5646 6.2529
+170.246.114.164 Colombia Bogotá CO -74.0617 4.6493
+186.119.25.8 Colombia Villavicencio CO -73.6266 4.142
+189.142.44.20 Mexico Pachuca MX -98.7561 20.1085
+181.49.105.199 Colombia Medellín CO -75.5646 6.2529
+181.49.105.199 Colombia Medellín CO -75.5646 6.2529
+201.221.124.8 Colombia Medellín CO -75.5646 6.2529
+189.142.44.20 Mexico Pachuca MX -98.7561 20.1085
+189.142.44.20 Mexico Pachuca MX -98.7561 20.1085
+189.142.44.20 Mexico Pachuca MX -98.7561 20.1085
+186.80.199.119 Colombia Pereira CO -75.6961 4.8133
+191.109.227.42 Colombia Bogotá CO -74.0617 4.6493
+181.49.167.90 Colombia Bogotá CO -74.0617 4.6493
+181.49.167.90 Colombia Bogotá CO -74.0617 4.6493
+186.28.24.93 Colombia Bogotá CO -74.0617 4.6493
+31.221.49.66 United Kingdom Wandsworth GB -0.2 51.45
+77.111.246.18 United States None US -97.822 37.751
+186.154.33.176 Colombia Bogotá CO -74.0617 4.6493
+88.98.241.48 United Kingdom Manchester GB -2.2374 53.4809
+186.154.36.173 Colombia Bogotá CO -74.0617 4.6493
+181.130.149.23 Colombia Bogotá CO -74.0617 4.6493
+200.29.116.194 Colombia None CO -74.0758 4.5981
+200.12.185.232 Colombia Medellín CO -75.5646 6.2529
+186.144.178.117 Colombia Pasto CO -77.2811 1.2136
+190.26.192.194 Colombia None CO -74.0758 4.5981
+200.9.3.65 Chile Las Condes CL -70.5167 -33.3667
+190.26.192.194 Colombia None CO -74.0758 4.5981
+190.25.228.209 Colombia Bogotá CO -74.0617 4.6493
+186.83.239.222 Colombia Bogotá CO -74.0617 4.6493
+200.24.16.214 Colombia Medellín CO -75.5646 6.2529
+200.24.16.214 Colombia Medellín CO -75.5646 6.2529
+190.242.58.154 Colombia None CO -74.0758 4.5981
+190.242.58.154 Colombia None CO -74.0758 4.5981
+190.144.176.2 Colombia Barranquilla CO -74.7837 10.9711
+190.216.129.188 Colombia Bogotá CO -74.0617 4.6493
+186.87.59.2 Colombia Medellín CO -75.5646 6.2529
+190.84.144.211 Colombia Bogotá CO -74.0617 4.6493
+190.90.122.131 Colombia Santa Marta CO -74.199 11.2408
+186.183.178.208 Colombia Bucaramanga CO -73.1198 7.1254
+190.60.115.198 Colombia Bogotá CO -74.0617 4.6493
+181.57.140.133 Colombia Bogotá CO -74.0617 4.6493
+190.85.246.8 Colombia Bogotá CO -74.0617 4.6493
+148.168.40.122 United States Parsippany US -74.4104 40.8617
+157.253.188.53 Colombia Bogotá CO -74.0617 4.6493
+181.49.167.90 Colombia Bogotá CO -74.0617 4.6493
+190.146.206.161 Colombia Bogotá CO -74.0617 4.6493
+190.90.122.131 Colombia Santa Marta CO -74.199 11.2408
+190.158.133.59 Colombia Bogotá CO -74.0617 4.6493
+201.245.168.123 Colombia Bogotá CO -74.0617 4.6493
+181.234.193.196 Colombia Bogotá CO -74.0617 4.6493
+191.109.62.15 Colombia None CO -74.0758 4.5981
+191.109.62.15 Colombia None CO -74.0758 4.5981
+190.60.231.2 Colombia Madrid CO -74.2642 4.7324
+190.24.123.241 Colombia Bogotá CO -74.0617 4.6493
+190.60.231.2 Colombia Madrid CO -74.2642 4.7324
+200.24.27.209 Colombia Medellín CO -75.5646 6.2529
+190.15.17.5 Colombia Bogotá CO -74.0617 4.6493
+190.60.96.58 Colombia Bogotá CO -74.0617 4.6493
+190.147.70.177 Colombia Medellín CO -75.5646 6.2529
+191.88.161.102 Colombia Medellín CO -75.5646 6.2529
+191.88.161.102 Colombia Medellín CO -75.5646 6.2529
+181.63.3.242 Colombia Santiago de Cali CO -76.5232 3.4384
+190.144.89.131 Colombia Bogotá CO -74.0617 4.6493
+190.240.19.177 Colombia Medellín CO -75.5646 6.2529
+201.234.64.7 Colombia None CO -74.0758 4.5981
+186.28.38.49 Colombia Bogotá CO -74.0617 4.6493
+201.234.64.7 Colombia None CO -74.0758 4.5981
+201.234.64.7 Colombia None CO -74.0758 4.5981
+201.234.64.7 Colombia None CO -74.0758 4.5981
+157.253.188.54 Colombia Bogotá CO -74.0617 4.6493
+201.234.64.7 Colombia None CO -74.0758 4.5981
+157.253.188.54 Colombia Bogotá CO -74.0617 4.6493
+186.80.100.55 Colombia Bogotá CO -74.0617 4.6493
+190.144.89.131 Colombia Bogotá CO -74.0617 4.6493
+138.36.66.153 Colombia Ibague CO -75.2322 4.4389
+181.55.144.233 Colombia Bogotá CO -74.0617 4.6493
+181.55.144.233 Colombia Bogotá CO -74.0617 4.6493
+181.55.144.233 Colombia Bogotá CO -74.0617 4.6493
+190.144.3.221 Colombia Bogotá CO -74.0617 4.6493
+190.60.127.134 Colombia Bogotá CO -74.0617 4.6493
+157.253.188.92 Colombia Bogotá CO -74.0617 4.6493
+191.109.227.42 Colombia Bogotá CO -74.0617 4.6493
+190.27.225.189 Colombia None CO -74.0758 4.5981
+190.145.154.8 Colombia Bogotá CO -74.0617 4.6493
+200.16.118.248 Colombia Bucaramanga CO -73.1198 7.1254
+190.85.65.147 Colombia Medellín CO -75.5646 6.2529
+187.177.97.190 Mexico Monterrey MX -100.3258 25.6554
+181.49.188.4 Colombia Medellín CO -75.5646 6.2529
+201.234.181.239 Colombia Medellín CO -75.5646 6.2529
+92.57.54.143 Spain Zaragoza ES -0.8773 41.6561
+186.29.173.242 Colombia Bogotá CO -74.0617 4.6493
+187.177.97.190 Mexico Monterrey MX -100.3258 25.6554
+200.122.244.104 Colombia Bogotá CO -74.0617 4.6493
+181.57.249.49 Colombia Bogotá CO -74.0617 4.6493
+181.57.243.166 Colombia Bogotá CO -74.0617 4.6493
+201.245.162.125 Colombia Bogotá CO -74.0617 4.6493
+181.61.160.157 Colombia Bogotá CO -74.0617 4.6493
+186.84.220.135 Colombia Medellín CO -75.5646 6.2529
+181.225.105.253 Colombia Bogotá CO -74.0617 4.6493
+190.60.233.2 Colombia Medellín CO -75.5646 6.2529
+201.184.86.114 Colombia Bogotá CO -74.0617 4.6493
+186.80.254.166 Colombia Bogotá CO -74.0617 4.6493
+190.157.96.225 Colombia Bogotá CO -74.0617 4.6493
+186.85.157.98 Colombia Medellín CO -75.5646 6.2529
+200.69.103.254 Colombia Bogotá CO -74.0617 4.6493
+187.177.97.190 Mexico Monterrey MX -100.3258 25.6554
+186.147.41.162 Colombia Bogotá CO -74.0617 4.6493
+181.57.249.49 Colombia Bogotá CO -74.0617 4.6493
+181.225.105.253 Colombia Bogotá CO -74.0617 4.6493
+37.169.58.204 France Paris FR 2.3527 48.8543
+181.57.247.232 Colombia Bogotá CO -74.0617 4.6493
+92.57.54.143 Spain Zaragoza ES -0.8773 41.6561
+181.57.241.52 Colombia Bogotá CO -74.0617 4.6493
+168.202.253.226 Italy Rome IT 12.5124 41.8904
+168.176.239.35 Colombia Bogotá CO -74.0617 4.6493
+191.91.67.243 Colombia None CO -74.0758 4.5981
+191.91.67.243 Colombia None CO -74.0758 4.5981
+190.24.185.108 Colombia Bogotá CO -74.0617 4.6493
+190.145.243.155 Colombia Bogotá CO -74.0617 4.6493
+191.91.67.243 Colombia None CO -74.0758 4.5981
+132.255.20.132 Colombia Funza CO -74.212 4.7164
+201.234.64.76 Colombia None CO -74.0758 4.5981
+45.5.164.149 Colombia Santiago de Cali CO -76.5232 3.4384
+201.234.64.7 Colombia None CO -74.0758 4.5981
+201.234.64.7 Colombia None CO -74.0758 4.5981
+181.57.241.131 Colombia Bogotá CO -74.0617 4.6493
+181.57.241.131 Colombia Bogotá CO -74.0617 4.6493
+201.234.64.7 Colombia None CO -74.0758 4.5981
+201.234.64.7 Colombia None CO -74.0758 4.5981
+201.234.64.7 Colombia None CO -74.0758 4.5981
+201.234.64.7 Colombia None CO -74.0758 4.5981
+200.16.118.248 Colombia Bucaramanga CO -73.1198 7.1254
+200.16.118.248 Colombia Bucaramanga CO -73.1198 7.1254
+200.16.118.248 Colombia Bucaramanga CO -73.1198 7.1254
+138.36.66.152 Colombia Ibague CO -75.2322 4.4389
+181.57.249.49 Colombia Bogotá CO -74.0617 4.6493
+190.145.197.12 Colombia Bogotá CO -74.0617 4.6493
+190.27.183.126 Colombia Bogotá CO -74.0617 4.6493
+190.27.183.126 Colombia Bogotá CO -74.0617 4.6493
+31.221.49.66 United Kingdom Wandsworth GB -0.2 51.45
+129.194.252.40 Switzerland Geneva CH 6.1457 46.2022
+190.67.231.46 Colombia La Dorada CO -74.6631 5.4478
+190.29.153.235 Colombia La Dolores CO -76.4745 3.4981
+181.53.207.243 Colombia Bogotá CO -74.0617 4.6493
+181.49.84.220 Colombia Santiago de Cali CO -76.5232 3.4384
+186.170.143.247 Colombia Cartagena CO -75.5144 10.3997
+181.53.224.252 Colombia Medellín CO -75.5646 6.2529
+186.81.150.104 Colombia Pereira CO -75.6961 4.8133
+186.31.49.141 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.40 Colombia Bogotá CO -74.0617 4.6493
+168.176.239.31 Colombia Bogotá CO -74.0617 4.6493
+186.170.47.26 Colombia Tunja CO -73.3678 5.5353
+167.0.195.109 Colombia Bogotá CO -74.0617 4.6493
+186.84.148.176 Colombia Bogotá CO -74.0617 4.6493
+186.84.220.135 Colombia Medellín CO -75.5646 6.2529
+147.75.127.180 Colombia Espinal CO -74.8843 4.1492
+190.84.54.166 Colombia Medellín CO -75.5646 6.2529
+186.83.6.126 Colombia Bogotá CO -74.0617 4.6493
+190.67.228.113 Colombia Bogotá CO -74.0617 4.6493
+186.80.56.239 Colombia Bogotá CO -74.0617 4.6493
+181.53.207.243 Colombia Bogotá CO -74.0617 4.6493
+186.81.150.104 Colombia Pereira CO -75.6961 4.8133
+186.85.157.98 Colombia Medellín CO -75.5646 6.2529
+168.176.184.30 Colombia Bogotá CO -74.0617 4.6493
+181.60.220.27 Colombia Bogotá CO -74.0617 4.6493
+190.24.89.161 Colombia Medellín CO -75.5646 6.2529
+186.28.225.180 Colombia Tunja CO -73.3678 5.5353
+181.49.80.198 Colombia Santiago de Cali CO -76.5232 3.4384
+181.137.22.200 Colombia Medellín CO -75.5646 6.2529
+181.51.153.20 Colombia Manizales CO -75.5174 5.0689
+181.51.153.20 Colombia Manizales CO -75.5174 5.0689
+181.51.153.20 Colombia Manizales CO -75.5174 5.0689
+181.51.153.20 Colombia Manizales CO -75.5174 5.0689
+186.85.157.98 Colombia Medellín CO -75.5646 6.2529
+179.0.29.84 Colombia None CO -74.7964 10.9639
+181.49.88.104 Colombia Barranquilla CO -74.7837 10.9711
+186.84.2.21 Colombia Bogotá CO -74.0617 4.6493
+200.12.185.232 Colombia Medellín CO -75.5646 6.2529
+167.249.43.43 Colombia Neiva CO -75.2819 2.9273
+181.54.65.55 Colombia Bogotá CO -74.0617 4.6493
+201.234.181.230 Colombia Medellín CO -75.5646 6.2529
+186.84.188.179 Colombia Bogotá CO -74.0617 4.6493
+186.29.186.205 Colombia Bogotá CO -74.0617 4.6493
+181.50.242.2 Colombia Bogotá CO -74.0617 4.6493
+190.27.183.126 Colombia Bogotá CO -74.0617 4.6493
+186.29.186.205 Colombia Bogotá CO -74.0617 4.6493
+181.59.178.99 Colombia Bogotá CO -74.0617 4.6493
+186.81.150.104 Colombia Pereira CO -75.6961 4.8133
+85.50.64.103 Spain Barcelona ES 2.1741 41.3984
+181.225.66.178 Colombia Santa Marta CO -74.199 11.2408
+181.57.247.84 Colombia Bogotá CO -74.0617 4.6493
+186.154.21.227 Colombia Bogotá CO -74.0617 4.6493
+181.49.66.81 Colombia Bogotá CO -74.0617 4.6493
+181.57.250.250 Colombia Bogotá CO -74.0617 4.6493
+181.55.162.83 Colombia Bogotá CO -74.0617 4.6493
+190.67.233.22 Colombia Medellín CO -75.5646 6.2529
+191.111.162.33 Colombia Andalucia CO -76.1664 4.1706
+200.3.152.46 Colombia Bogotá CO -74.0617 4.6493
+190.157.190.169 Colombia Medellín CO -75.5646 6.2529
+181.56.157.47 Colombia Bogotá CO -74.0617 4.6493
+186.84.148.176 Colombia Bogotá CO -74.0617 4.6493
+181.55.162.83 Colombia Bogotá CO -74.0617 4.6493
+181.59.247.100 Colombia Bogotá CO -74.0617 4.6493
+181.58.250.150 Colombia Bucaramanga CO -73.1198 7.1254
+190.26.138.238 Colombia Bogotá CO -74.0617 4.6493
+83.33.238.240 Spain Las Rozas de Madrid ES -3.8712999999999997 40.4921
+191.111.174.136 Colombia Santiago de Cali CO -76.5232 3.4384
+191.111.174.136 Colombia Santiago de Cali CO -76.5232 3.4384
+190.128.51.152 Colombia Pereira CO -75.6961 4.8133
+181.49.78.92 Colombia Bogotá CO -74.0617 4.6493
+181.140.5.203 Colombia Santiago de Cali CO -76.5232 3.4384
+186.155.15.20 Colombia Bogotá CO -74.0617 4.6493
+167.249.43.43 Colombia Neiva CO -75.2819 2.9273
+167.0.200.173 Colombia Duitama CO -73.0341 5.8245000000000005
+167.0.200.173 Colombia Duitama CO -73.0341 5.8245000000000005
+167.0.200.173 Colombia Duitama CO -73.0341 5.8245000000000005
+181.49.66.81 Colombia Bogotá CO -74.0617 4.6493
+181.132.40.217 Colombia None CO -74.0758 4.5981
+167.0.200.173 Colombia Duitama CO -73.0341 5.8245000000000005
+181.53.236.178 Colombia Bogotá CO -74.0617 4.6493
+186.28.204.181 Colombia Bogotá CO -74.0617 4.6493
+186.87.141.153 Colombia Medellín CO -75.5646 6.2529
+186.87.141.153 Colombia Medellín CO -75.5646 6.2529
+186.87.141.153 Colombia Medellín CO -75.5646 6.2529
+186.87.141.153 Colombia Medellín CO -75.5646 6.2529
+186.87.141.153 Colombia Medellín CO -75.5646 6.2529
+186.144.224.127 Colombia Pereira CO -75.6961 4.8133
+190.145.247.221 Colombia Villavicencio CO -73.6266 4.142
+181.234.33.6 Colombia Tuluá CO -76.1954 4.0847
+186.118.227.14 Colombia None CO -74.0758 4.5981
+181.59.178.91 Colombia Bogotá CO -74.0617 4.6493
+181.59.178.91 Colombia Bogotá CO -74.0617 4.6493
+181.59.178.91 Colombia Bogotá CO -74.0617 4.6493
+191.98.39.83 Colombia Pereira CO -75.6961 4.8133
+191.98.39.83 Colombia Pereira CO -75.6961 4.8133
+181.59.179.242 Colombia Bogotá CO -74.0617 4.6493
+181.59.179.242 Colombia Bogotá CO -74.0617 4.6493
+88.108.204.54 United Kingdom Edgware GB -0.2664 51.6021
+181.143.139.122 Colombia Medellín CO -75.5646 6.2529
+181.143.139.122 Colombia Medellín CO -75.5646 6.2529
+186.119.195.149 Colombia Bogotá CO -74.0617 4.6493
+181.59.178.91 Colombia Bogotá CO -74.0617 4.6493
+181.59.178.91 Colombia Bogotá CO -74.0617 4.6493
+181.59.178.91 Colombia Bogotá CO -74.0617 4.6493
+181.59.178.91 Colombia Bogotá CO -74.0617 4.6493
+190.96.192.21 Colombia Bucaramanga CO -73.1198 7.1254
+186.29.183.35 Colombia Bogotá CO -74.0617 4.6493
+190.131.196.34 Colombia None CO -74.0758 4.5981
+181.174.26.81 Colombia Bucaramanga CO -73.1198 7.1254
+190.9.204.51 Colombia Popayan CO -76.6132 2.4382
+190.9.204.51 Colombia Popayan CO -76.6132 2.4382
+190.14.236.123 Colombia Armenia CO -75.6811 4.5339
+200.29.116.194 Colombia None CO -74.0758 4.5981
+190.248.130.254 Colombia Medellín CO -75.5646 6.2529
+201.234.179.178 Colombia Bogotá CO -74.0617 4.6493
+181.63.180.176 Colombia Bogotá CO -74.0617 4.6493
+190.27.6.24 Colombia Bogotá CO -74.0617 4.6493
+190.90.14.26 Colombia None CO -74.0758 4.5981
+190.67.233.22 Colombia Medellín CO -75.5646 6.2529
+190.25.106.189 Colombia Bogotá CO -74.0617 4.6493
+190.25.106.189 Colombia Bogotá CO -74.0617 4.6493
+45.5.184.2 Colombia Santiago de Cali CO -76.5232 3.4384
+157.253.10.152 Colombia Bogotá CO -74.0617 4.6493
+73.73.175.252 United States Chicago US -87.5993 41.8018
+73.73.175.252 United States Chicago US -87.5993 41.8018
+73.73.175.252 United States Chicago US -87.5993 41.8018
+190.248.130.254 Colombia Medellín CO -75.5646 6.2529
+128.135.98.168 United States Chicago US -87.6046 41.7821
+201.184.86.114 Colombia Bogotá CO -74.0617 4.6493
+157.253.248.208 Colombia Bogotá CO -74.0617 4.6493
+181.63.7.21 Colombia Cajica CO -74.028 4.9186
+186.82.192.12 Colombia Medellín CO -75.5646 6.2529
+181.49.91.219 Colombia Barranquilla CO -74.7837 10.9711
+190.145.197.12 Colombia Bogotá CO -74.0617 4.6493
+200.24.17.69 Colombia Medellín CO -75.5646 6.2529
+201.216.56.217 Colombia Bogotá CO -74.0617 4.6493
+186.80.129.248 Colombia Bogotá CO -74.0617 4.6493
+186.80.129.248 Colombia Bogotá CO -74.0617 4.6493
+186.80.129.248 Colombia Bogotá CO -74.0617 4.6493
+190.14.255.152 Colombia Duitama CO -73.0341 5.8245000000000005
+190.99.142.85 Colombia Santiago de Cali CO -76.5232 3.4384
+190.24.136.98 Colombia Bogotá CO -74.0617 4.6493
+181.135.7.33 Colombia Bogotá CO -74.0617 4.6493
+190.90.122.131 Colombia Santa Marta CO -74.199 11.2408
+190.9.207.92 Colombia Bogotá CO -74.0617 4.6493
+181.225.66.178 Colombia Santa Marta CO -74.199 11.2408
+190.90.95.147 Colombia None CO -74.0758 4.5981
+181.234.112.115 Colombia Neiva CO -75.2819 2.9273
+186.30.37.47 Colombia Bogotá CO -74.0617 4.6493
+200.69.101.18 Colombia Bogotá CO -74.0617 4.6493
+217.196.239.109 United Kingdom None GB -0.1224 51.4964
+167.0.230.137 Colombia Ibague CO -75.2322 4.4389
+167.0.230.137 Colombia Ibague CO -75.2322 4.4389
+201.245.168.123 Colombia Bogotá CO -74.0617 4.6493
+190.145.243.155 Colombia Bogotá CO -74.0617 4.6493
+190.145.243.155 Colombia Bogotá CO -74.0617 4.6493
+191.102.5.154 Colombia Bello CO -75.558 6.3373
+148.168.40.122 United States Parsippany US -74.4104 40.8617
+90.68.151.179 Spain Villajoyosa ES -0.2437 38.5101
+132.255.23.66 Colombia None CO -74.0758 4.5981
+181.134.176.31 Colombia Bucaramanga CO -73.1198 7.1254
+186.154.216.2 Colombia Zipaquirá CO -74.0048 5.0221
+181.59.179.242 Colombia Bogotá CO -74.0617 4.6493
+186.154.216.2 Colombia Zipaquirá CO -74.0048 5.0221
+190.60.194.2 Colombia Santiago de Cali CO -76.5232 3.4384
+190.60.194.2 Colombia Santiago de Cali CO -76.5232 3.4384
+69.174.87.148 United States None US -81.6221 28.6344
+181.143.175.58 Colombia Bogotá CO -74.0617 4.6493
+204.156.82.80 United States Greensboro US -79.8762 36.1053
+201.216.56.217 Colombia Bogotá CO -74.0617 4.6493
+186.31.217.56 Colombia Bogotá CO -74.0617 4.6493
+191.102.99.174 Colombia La Plata CO -75.8923 2.3934
+181.156.32.80 Colombia None CO -74.0758 4.5981
+186.1.183.106 Colombia Santa Marta CO -74.199 11.2408
+191.111.169.125 Colombia Santiago de Cali CO -76.5232 3.4384
+190.217.110.122 Colombia Medellín CO -75.5646 6.2529
+167.249.43.43 Colombia Neiva CO -75.2819 2.9273
+186.81.204.233 Colombia Santa Marta CO -74.199 11.2408
+190.116.102.68 Peru Lima PE -77.0428 -12.0464
+157.253.19.125 Colombia Bogotá CO -74.0617 4.6493
+190.119.238.15 Peru Lima PE -77.0428 -12.0464
+73.162.7.225 United States Berkeley US -122.257 37.8664
+186.154.195.91 Colombia Medellín CO -75.5646 6.2529
+181.57.240.196 Colombia Bogotá CO -74.0617 4.6493
+181.57.240.196 Colombia Bogotá CO -74.0617 4.6493
+138.186.179.76 Venezuela Maracaibo VE -71.6406 10.6317
+138.186.179.76 Venezuela Maracaibo VE -71.6406 10.6317
+186.147.41.162 Colombia Bogotá CO -74.0617 4.6493
+159.237.12.32 Spain Pamplona ES -1.6412 42.8141
+186.31.169.81 Colombia Bogotá CO -74.0617 4.6493
+186.31.169.81 Colombia Bogotá CO -74.0617 4.6493
+181.55.168.129 Colombia Bogotá CO -74.0617 4.6493
+201.234.64.7 Colombia None CO -74.0758 4.5981
+201.234.64.7 Colombia None CO -74.0758 4.5981
+191.78.127.153 Colombia None CO -74.0758 4.5981
+200.16.117.142 Colombia Bucaramanga CO -73.1198 7.1254
+168.176.239.31 Colombia Bogotá CO -74.0617 4.6493
+200.116.175.81 Colombia Santiago de Cali CO -76.5232 3.4384
+168.176.239.31 Colombia Bogotá CO -74.0617 4.6493
+193.145.230.15 Spain Alicante ES -0.4815 38.3452
+193.145.230.15 Spain Alicante ES -0.4815 38.3452
+201.234.64.7 Colombia None CO -74.0758 4.5981
+200.91.230.4 Colombia None CO -74.0758 4.5981
+186.155.29.36 Colombia Bogotá CO -74.0617 4.6493
+186.27.194.204 Colombia Santiago de Cali CO -76.5232 3.4384
+138.186.179.76 Venezuela Maracaibo VE -71.6406 10.6317
+181.57.241.55 Colombia Bogotá CO -74.0617 4.6493
+157.253.19.125 Colombia Bogotá CO -74.0617 4.6493
+186.145.50.179 Colombia Bogotá CO -74.0617 4.6493
+201.234.181.211 Colombia Medellín CO -75.5646 6.2529
+200.116.127.165 Colombia Medellín CO -75.5646 6.2529
+199.79.165.2 United States None US -97.822 37.751
+181.137.129.188 Colombia Buenos Aires CO -75.835 5.6826
+201.184.86.114 Colombia Bogotá CO -74.0617 4.6493
+190.25.42.125 Colombia Bogotá CO -74.0617 4.6493
+190.131.248.33 Colombia Barranquilla CO -74.7837 10.9711
+167.249.43.43 Colombia Neiva CO -75.2819 2.9273
+181.134.176.31 Colombia Bucaramanga CO -73.1198 7.1254
+186.146.78.72 Colombia Bogotá CO -74.0617 4.6493
+201.221.122.2 Colombia Bogotá CO -74.0617 4.6493
+201.221.122.2 Colombia Bogotá CO -74.0617 4.6493
+201.221.122.2 Colombia Bogotá CO -74.0617 4.6493
+201.221.122.2 Colombia Bogotá CO -74.0617 4.6493
+201.221.122.2 Colombia Bogotá CO -74.0617 4.6493
+201.221.122.2 Colombia Bogotá CO -74.0617 4.6493
+201.221.122.2 Colombia Bogotá CO -74.0617 4.6493
+186.31.116.126 Colombia Bogotá CO -74.0617 4.6493
+186.31.116.126 Colombia Bogotá CO -74.0617 4.6493
+190.217.17.212 Colombia Bogotá CO -74.0617 4.6493
+190.217.17.212 Colombia Bogotá CO -74.0617 4.6493
+190.217.17.212 Colombia Bogotá CO -74.0617 4.6493
+190.217.17.212 Colombia Bogotá CO -74.0617 4.6493
+190.217.17.212 Colombia Bogotá CO -74.0617 4.6493
+186.155.29.36 Colombia Bogotá CO -74.0617 4.6493
+186.155.29.36 Colombia Bogotá CO -74.0617 4.6493
+190.217.17.212 Colombia Bogotá CO -74.0617 4.6493
+186.155.29.36 Colombia Bogotá CO -74.0617 4.6493
+190.24.88.197 Colombia Medellín CO -75.5646 6.2529
+201.190.75.111 Colombia Medellín CO -75.5646 6.2529
+190.24.148.157 Colombia Bogotá CO -74.0617 4.6493
+186.145.129.70 Colombia Bogotá CO -74.0617 4.6493
+179.209.254.143 Brazil São Paulo BR -46.6322 -23.63
+181.143.24.106 Colombia Medellín CO -75.5646 6.2529
+179.209.254.143 Brazil São Paulo BR -46.6322 -23.63
+190.9.217.226 Colombia Medellín CO -75.5646 6.2529
+190.9.217.226 Colombia Medellín CO -75.5646 6.2529
+190.9.217.226 Colombia Medellín CO -75.5646 6.2529
+190.9.217.226 Colombia Medellín CO -75.5646 6.2529
+201.234.64.8 Colombia None CO -74.0758 4.5981
+190.131.247.146 Colombia Bogotá CO -74.0617 4.6493
+190.145.154.8 Colombia Bogotá CO -74.0617 4.6493
+200.12.181.139 Colombia Medellín CO -75.5646 6.2529
+190.60.95.136 Colombia Bogotá CO -74.0617 4.6493
+181.48.106.126 Colombia Bogotá CO -74.0617 4.6493
+186.80.93.214 Colombia Santiago de Cali CO -76.5232 3.4384
+201.221.122.2 Colombia Bogotá CO -74.0617 4.6493
+200.93.135.250 Colombia None CO -74.0758 4.5981
+201.245.162.114 Colombia Bogotá CO -74.0617 4.6493
+201.141.236.227 Mexico Mexico City MX -99.1386 19.4342
+201.141.236.227 Mexico Mexico City MX -99.1386 19.4342
+190.254.11.84 Colombia Medellín CO -75.5646 6.2529
+190.131.221.66 Colombia Cartagena CO -75.5144 10.3997
+45.5.164.147 Colombia Santiago de Cali CO -76.5232 3.4384
+181.143.24.106 Colombia Medellín CO -75.5646 6.2529
+186.31.58.134 Colombia Medellín CO -75.5646 6.2529
+186.31.54.52 Colombia Bogotá CO -74.0617 4.6493
+167.249.43.43 Colombia Neiva CO -75.2819 2.9273
+45.5.172.20 Colombia Santiago de Cali CO -76.5232 3.4384
+168.176.239.104 Colombia Bogotá CO -74.0617 4.6493
+181.59.247.100 Colombia Bogotá CO -74.0617 4.6493
+186.29.180.251 Colombia Bogotá CO -74.0617 4.6493
+181.57.241.55 Colombia Bogotá CO -74.0617 4.6493
+147.142.158.114 Germany Heidelberg DE 8.6868 49.4062
+201.244.137.130 Colombia Bogotá CO -74.0617 4.6493
+181.143.24.106 Colombia Medellín CO -75.5646 6.2529
+199.79.165.2 United States None US -97.822 37.751
+186.83.6.39 Colombia Bogotá CO -74.0617 4.6493
+190.6.13.167 Venezuela None VE -66.0 8.0
+201.234.64.7 Colombia None CO -74.0758 4.5981
+62.207.68.65 Netherlands Arnhem NL 5.9334 51.9734
+181.140.140.203 Colombia Medellín CO -75.5646 6.2529
+181.140.140.203 Colombia Medellín CO -75.5646 6.2529
+191.102.5.154 Colombia Bello CO -75.558 6.3373
+191.102.5.154 Colombia Bello CO -75.558 6.3373
+83.56.24.57 Spain Alcalá de Henares ES -3.36 40.482
+168.176.239.31 Colombia Bogotá CO -74.0617 4.6493
+181.134.176.31 Colombia Bucaramanga CO -73.1198 7.1254
+181.53.171.43 Colombia Pasto CO -77.2811 1.2136
+190.24.28.188 Colombia Medellín CO -75.5646 6.2529
+104.163.190.27 Canada Montreal CA -73.5545 45.5186
+186.28.7.162 Colombia Bogotá CO -74.0617 4.6493
+179.0.29.84 Colombia None CO -74.7964 10.9639
+190.24.28.188 Colombia Medellín CO -75.5646 6.2529
+204.156.82.80 United States Greensboro US -79.8762 36.1053
+181.143.222.178 Colombia Medellín CO -75.5646 6.2529
+181.50.139.161 Colombia Ibague CO -75.2322 4.4389
+190.24.21.225 Colombia Bogotá CO -74.0617 4.6493
+181.142.28.252 Colombia Bello CO -75.558 6.3373
+190.70.74.69 Colombia Medellín CO -75.5646 6.2529
+201.245.162.114 Colombia Bogotá CO -74.0617 4.6493
+165.225.100.105 Japan None JP 139.69 35.69
+186.145.69.21 Colombia Medellín CO -75.5646 6.2529
+190.99.187.247 Colombia Santiago de Cali CO -76.5232 3.4384
+190.145.154.8 Colombia Bogotá CO -74.0617 4.6493
+190.145.154.8 Colombia Bogotá CO -74.0617 4.6493
+190.145.154.8 Colombia Bogotá CO -74.0617 4.6493
+190.143.112.2 Colombia Bogotá CO -74.0617 4.6493
+186.29.184.99 Colombia Bogotá CO -74.0617 4.6493
+190.85.246.2 Colombia Bogotá CO -74.0617 4.6493
+190.145.116.111 Colombia Bogotá CO -74.0617 4.6493
+200.26.152.170 Colombia Bogotá CO -74.0617 4.6493
+190.216.204.14 Colombia None CO -74.0758 4.5981
+168.176.241.77 Colombia Bogotá CO -74.0617 4.6493
+186.115.248.187 Colombia Ibague CO -75.2322 4.4389
+138.36.65.245 Colombia Ibague CO -75.2322 4.4389
+200.85.236.118 Colombia Medellín CO -75.5646 6.2529
+201.141.236.227 Mexico Mexico City MX -99.1386 19.4342
+201.141.236.227 Mexico Mexico City MX -99.1386 19.4342
+190.7.129.84 Colombia Bogotá CO -74.0617 4.6493
+186.155.28.196 Colombia Bogotá CO -74.0617 4.6493
+186.114.27.248 Colombia Bogotá CO -74.0617 4.6493
+190.182.101.26 Colombia Barranquilla CO -74.7837 10.9711
+157.253.187.95 Colombia Bogotá CO -74.0617 4.6493
+186.145.69.21 Colombia Medellín CO -75.5646 6.2529
+190.24.124.103 Colombia Bogotá CO -74.0617 4.6493
+190.24.124.103 Colombia Bogotá CO -74.0617 4.6493
+181.57.249.50 Colombia Bogotá CO -74.0617 4.6493
+190.24.138.98 Colombia Medellín CO -75.5646 6.2529
+186.145.69.21 Colombia Medellín CO -75.5646 6.2529
+181.61.247.150 Colombia Bogotá CO -74.0617 4.6493
+189.203.150.197 Mexico Mexico City MX -99.1574 19.4491
+190.233.229.68 Peru Lima PE -77.0428 -12.0464
+190.70.11.169 Colombia Medellín CO -75.5646 6.2529
+181.54.14.249 Colombia Bogotá CO -74.0617 4.6493
+201.234.64.7 Colombia None CO -74.0758 4.5981
+186.145.58.229 Colombia Bogotá CO -74.0617 4.6493
+129.74.242.113 United States Notre Dame US -86.2379 41.7002
+167.249.43.68 Colombia Neiva CO -75.2819 2.9273
+190.70.11.169 Colombia Medellín CO -75.5646 6.2529
+190.70.11.169 Colombia Medellín CO -75.5646 6.2529
+190.70.11.169 Colombia Medellín CO -75.5646 6.2529
+181.49.93.12 Colombia Medellín CO -75.5646 6.2529
+186.116.105.170 Colombia None CO -74.0758 4.5981
+191.76.196.212 Colombia None CO -74.0758 4.5981
+200.119.53.233 Colombia Bogotá CO -74.0617 4.6493
+200.26.152.170 Colombia Bogotá CO -74.0617 4.6493
+200.26.152.170 Colombia Bogotá CO -74.0617 4.6493
+200.26.152.170 Colombia Bogotá CO -74.0617 4.6493
+200.26.152.170 Colombia Bogotá CO -74.0617 4.6493
+200.26.152.170 Colombia Bogotá CO -74.0617 4.6493
+190.145.152.1 Colombia Medellín CO -75.5646 6.2529
+45.5.164.143 Colombia Santiago de Cali CO -76.5232 3.4384
+177.252.252.76 Colombia Bogotá CO -74.0617 4.6493
+181.48.106.126 Colombia Bogotá CO -74.0617 4.6493
+190.24.88.197 Colombia Medellín CO -75.5646 6.2529
+186.80.104.239 Colombia Ibague CO -75.2322 4.4389
+186.116.129.2 Colombia None CO -74.0758 4.5981
+200.118.231.61 Colombia Bogotá CO -74.0617 4.6493
+200.1.175.62 Colombia Bogotá CO -74.0617 4.6493
+190.145.240.139 Colombia Bogotá CO -74.0617 4.6493
+138.36.65.60 Colombia Ibague CO -75.2322 4.4389
+138.36.65.60 Colombia Ibague CO -75.2322 4.4389
+190.60.211.43 Colombia Bogotá CO -74.0617 4.6493
+181.49.22.146 Colombia Bucaramanga CO -73.1198 7.1254
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+190.216.129.188 Colombia Bogotá CO -74.0617 4.6493
+186.144.64.147 Colombia Villa del Rosario CO -72.4742 7.8339
+191.91.0.21 Colombia None CO -74.0758 4.5981
+186.31.78.158 Colombia Bogotá CO -74.0617 4.6493
+201.245.162.114 Colombia Bogotá CO -74.0617 4.6493
+186.81.62.14 Colombia Palmira CO -76.3036 3.5394
+190.131.221.66 Colombia Cartagena CO -75.5144 10.3997
+181.49.135.60 Colombia Bogotá CO -74.0617 4.6493
+186.31.78.158 Colombia Bogotá CO -74.0617 4.6493
+200.91.230.4 Colombia None CO -74.0758 4.5981
+186.86.181.166 Colombia Bucaramanga CO -73.1198 7.1254
+181.56.233.1 Colombia Bogotá CO -74.0617 4.6493
+181.49.94.187 Colombia Barranquilla CO -74.7837 10.9711
+200.109.65.77 Venezuela None VE -66.0 8.0
+200.3.152.79 Colombia Bogotá CO -74.0617 4.6493
+190.25.102.138 Colombia Bogotá CO -74.0617 4.6493
+186.82.187.42 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.79 Colombia Bogotá CO -74.0617 4.6493
+190.219.10.198 Panama Panama City PA -79.523 8.9948
+181.49.85.77 Colombia Santiago de Cali CO -76.5232 3.4384
+190.26.195.242 Colombia Villavicencio CO -73.6266 4.142
+201.220.67.71 Colombia Bogotá CO -74.0617 4.6493
+201.245.168.123 Colombia Bogotá CO -74.0617 4.6493
+190.145.154.8 Colombia Bogotá CO -74.0617 4.6493
+138.220.146.136 United States Indian Head US -77.1622 38.6001
+186.82.231.81 Colombia Bogotá CO -74.0617 4.6493
+190.60.95.27 Colombia Villavicencio CO -73.6266 4.142
+186.145.58.229 Colombia Bogotá CO -74.0617 4.6493
+186.145.58.229 Colombia Bogotá CO -74.0617 4.6493
+186.30.173.133 Colombia Bogotá CO -74.0617 4.6493
+201.245.162.115 Colombia Bogotá CO -74.0617 4.6493
+190.242.127.82 Colombia None CO -74.0758 4.5981
+167.249.43.68 Colombia Neiva CO -75.2819 2.9273
+201.245.162.115 Colombia Bogotá CO -74.0617 4.6493
+167.249.43.68 Colombia Neiva CO -75.2819 2.9273
+201.234.181.245 Colombia Medellín CO -75.5646 6.2529
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+204.156.82.80 United States Greensboro US -79.8762 36.1053
+181.57.241.131 Colombia Bogotá CO -74.0617 4.6493
+204.156.82.80 United States Greensboro US -79.8762 36.1053
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+190.60.231.2 Colombia Madrid CO -74.2642 4.7324
+186.84.221.41 Colombia Medellín CO -75.5646 6.2529
+200.21.45.11 Colombia None CO -74.0758 4.5981
+186.81.62.14 Colombia Palmira CO -76.3036 3.5394
+186.84.221.41 Colombia Medellín CO -75.5646 6.2529
+168.176.239.33 Colombia Bogotá CO -74.0617 4.6493
+190.145.152.1 Colombia Medellín CO -75.5646 6.2529
+161.18.69.92 Colombia Bogotá CO -74.0617 4.6493
+201.245.162.114 Colombia Bogotá CO -74.0617 4.6493
+186.155.98.195 Colombia Bogotá CO -74.0617 4.6493
+186.29.233.193 Colombia Bogotá CO -74.0617 4.6493
+190.24.71.155 Colombia Bogotá CO -74.0617 4.6493
+181.49.65.155 Colombia Bogotá CO -74.0617 4.6493
+186.114.62.105 Colombia Ibague CO -75.2322 4.4389
+200.71.162.1 Venezuela None VE -66.0 8.0
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+181.137.163.70 Colombia Medellín CO -75.5646 6.2529
+186.144.103.131 Colombia Bucaramanga CO -73.1198 7.1254
+187.204.171.6 Mexico Manzanillo MX -104.2083 19.2125
+179.32.98.69 Colombia Bogotá CO -74.0617 4.6493
+179.32.98.69 Colombia Bogotá CO -74.0617 4.6493
+190.60.12.6 Colombia Bogotá CO -74.0617 4.6493
+190.72.9.98 Venezuela Arichuna VE -67.1147 7.7172
+190.24.56.195 Colombia Bogotá CO -74.0617 4.6493
+190.146.55.140 Colombia Bogotá CO -74.0617 4.6493
+186.144.64.147 Colombia Villa del Rosario CO -72.4742 7.8339
+186.145.19.229 Colombia Bogotá CO -74.0617 4.6493
+181.48.106.126 Colombia Bogotá CO -74.0617 4.6493
+190.159.50.82 Colombia Neiva CO -75.2819 2.9273
+186.80.129.248 Colombia Bogotá CO -74.0617 4.6493
+186.144.64.147 Colombia Villa del Rosario CO -72.4742 7.8339
+168.227.105.72 Colombia Medellín CO -75.5646 6.2529
+190.146.55.140 Colombia Bogotá CO -74.0617 4.6493
+191.102.222.7 Colombia Medellín CO -75.5646 6.2529
+200.24.27.135 Colombia Medellín CO -75.5646 6.2529
+190.146.55.140 Colombia Bogotá CO -74.0617 4.6493
+186.155.23.34 Colombia Bogotá CO -74.0617 4.6493
+190.145.116.111 Colombia Bogotá CO -74.0617 4.6493
+186.30.30.66 Colombia Bogotá CO -74.0617 4.6493
+181.51.153.20 Colombia Manizales CO -75.5174 5.0689
+167.0.35.238 Colombia Giron CO -73.1698 7.0682
+167.0.35.238 Colombia Giron CO -73.1698 7.0682
+167.0.35.238 Colombia Giron CO -73.1698 7.0682
+167.0.35.238 Colombia Giron CO -73.1698 7.0682
+200.119.58.183 Colombia Bogotá CO -74.0617 4.6493
+152.168.194.209 Argentina La Plata AR -57.9489 -34.9314
+190.146.104.6 Colombia Bogotá CO -74.0617 4.6493
+190.84.185.78 Colombia Bogotá CO -74.0617 4.6493
+190.60.231.2 Colombia Madrid CO -74.2642 4.7324
+186.83.1.244 Colombia Bogotá CO -74.0617 4.6493
+186.29.233.193 Colombia Bogotá CO -74.0617 4.6493
+186.146.48.165 Colombia Bucaramanga CO -73.1198 7.1254
+190.158.63.143 Colombia Giron CO -73.1698 7.0682
+181.225.105.253 Colombia Bogotá CO -74.0617 4.6493
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.26 Colombia Bogotá CO -74.0617 4.6493
+181.225.105.253 Colombia Bogotá CO -74.0617 4.6493
+190.25.137.132 Colombia None CO -74.0758 4.5981
+186.87.216.194 Colombia Bucaramanga CO -73.1198 7.1254
+181.59.168.138 Colombia Bogotá CO -74.0617 4.6493
+186.86.80.215 Colombia Medellín CO -75.5646 6.2529
+181.225.105.254 Colombia Bogotá CO -74.0617 4.6493
+186.30.44.254 Colombia Bogotá CO -74.0617 4.6493
+186.86.24.72 Colombia Medellín CO -75.5646 6.2529
+181.60.104.79 Colombia Ibague CO -75.2322 4.4389
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+157.253.189.52 Colombia Bogotá CO -74.0617 4.6493
+186.28.168.217 Colombia Medellín CO -75.5646 6.2529
+190.157.171.250 Colombia Bogotá CO -74.0617 4.6493
+47.61.67.140 Spain Barcelona ES 2.1611 41.3891
+186.28.168.217 Colombia Medellín CO -75.5646 6.2529
+161.10.217.182 Colombia Bogotá CO -74.0617 4.6493
+186.30.134.193 Colombia Bogotá CO -74.0617 4.6493
+181.49.66.4 Colombia Bogotá CO -74.0617 4.6493
+181.61.152.39 Colombia Medellín CO -75.5646 6.2529
+181.55.106.49 Colombia Pasto CO -77.2811 1.2136
+207.244.83.193 United States Manassas US -77.6321 38.7701
+186.155.18.150 Colombia Bogotá CO -74.0617 4.6493
+190.147.170.27 Colombia Medellín CO -75.5646 6.2529
+186.30.134.193 Colombia Bogotá CO -74.0617 4.6493
+181.133.2.26 Colombia Medellín CO -75.5646 6.2529
+186.28.168.217 Colombia Medellín CO -75.5646 6.2529
+207.244.79.135 United States Arlington US -77.1142 38.8738
+190.157.171.250 Colombia Bogotá CO -74.0617 4.6493
+186.144.101.4 Colombia Bucaramanga CO -73.1198 7.1254
+190.145.240.173 Colombia Bogotá CO -74.0617 4.6493
+186.83.170.7 Colombia Pereira CO -75.6961 4.8133
+181.236.237.200 Colombia Bucaramanga CO -73.1198 7.1254
+172.5.34.36 United States Miami US -80.1862 25.8132
+190.24.56.87 Colombia Bogotá CO -74.0617 4.6493
+181.49.91.240 Colombia Barranquilla CO -74.7837 10.9711
+201.82.56.119 Brazil Campinas BR -47.0439 -22.8951
+201.82.56.119 Brazil Campinas BR -47.0439 -22.8951
+201.82.56.119 Brazil Campinas BR -47.0439 -22.8951
+201.82.56.119 Brazil Campinas BR -47.0439 -22.8951
+201.82.56.119 Brazil Campinas BR -47.0439 -22.8951
+186.114.2.255 Colombia Bogotá CO -74.0617 4.6493
+186.29.12.54 Colombia Bogotá CO -74.0617 4.6493
+186.30.44.254 Colombia Bogotá CO -74.0617 4.6493
+200.16.119.154 Colombia Bucaramanga CO -73.1198 7.1254
+200.16.119.154 Colombia Bucaramanga CO -73.1198 7.1254
+186.30.44.254 Colombia Bogotá CO -74.0617 4.6493
+190.9.198.61 Colombia Pereira CO -75.6961 4.8133
+201.245.209.109 Colombia Bogotá CO -74.0617 4.6493
+190.157.165.43 Colombia Bogotá CO -74.0617 4.6493
+181.61.122.57 Colombia Funza CO -74.212 4.7164
+200.3.152.35 Colombia Bogotá CO -74.0617 4.6493
+190.27.214.3 Colombia Bogotá CO -74.0617 4.6493
+138.36.66.130 Colombia Ibague CO -75.2322 4.4389
+181.61.33.174 Colombia Bogotá CO -74.0617 4.6493
+190.255.93.94 Colombia Santa Marta CO -74.199 11.2408
+201.245.209.109 Colombia Bogotá CO -74.0617 4.6493
+201.245.209.109 Colombia Bogotá CO -74.0617 4.6493
+181.57.174.146 Colombia Medellín CO -75.5646 6.2529
+181.63.62.9 Colombia Madrid CO -74.2642 4.7324
+186.144.64.147 Colombia Villa del Rosario CO -72.4742 7.8339
+201.217.200.196 Colombia Bogotá CO -74.0617 4.6493
+201.217.200.196 Colombia Bogotá CO -74.0617 4.6493
+186.31.43.160 Colombia None CO -74.0758 4.5981
+201.245.162.114 Colombia Bogotá CO -74.0617 4.6493
+200.16.119.145 Colombia Bucaramanga CO -73.1198 7.1254
+190.144.89.131 Colombia Bogotá CO -74.0617 4.6493
+181.49.95.250 Colombia Medellín CO -75.5646 6.2529
+190.24.136.182 Colombia Bogotá CO -74.0617 4.6493
+190.146.55.140 Colombia Bogotá CO -74.0617 4.6493
+179.7.117.166 Peru Lima PE -77.0428 -12.0464
+186.144.64.147 Colombia Villa del Rosario CO -72.4742 7.8339
+181.39.215.27 Ecuador Quito EC -78.5017 -0.2143
+200.29.103.65 Colombia Santiago de Cali CO -76.5232 3.4384
+186.83.107.180 Colombia Bogotá CO -74.0617 4.6493
+168.176.239.32 Colombia Bogotá CO -74.0617 4.6493
+181.52.92.59 Colombia Santa Marta CO -74.199 11.2408
+186.144.64.147 Colombia Villa del Rosario CO -72.4742 7.8339
+86.20.85.153 United Kingdom Brighton GB -0.1194 50.8612
+186.117.182.64 Colombia Neiva CO -75.2819 2.9273
+195.9.122.26 Russia Moscow RU 37.6172 55.7527
+186.101.157.13 Ecuador Quito EC -78.5017 -0.2143
+191.91.193.58 Colombia None CO -74.0758 4.5981
+190.145.245.105 Colombia Villavicencio CO -73.6266 4.142
+190.90.122.132 Colombia Santa Marta CO -74.199 11.2408
+208.30.40.190 Colombia Bogotá CO -74.0617 4.6493
+190.146.227.40 Colombia Bogotá CO -74.0617 4.6493
+200.26.152.170 Colombia Bogotá CO -74.0617 4.6493
+200.116.127.165 Colombia Medellín CO -75.5646 6.2529
+200.119.46.50 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.79 Colombia Bogotá CO -74.0617 4.6493
+186.84.196.240 Colombia Medellín CO -75.5646 6.2529
+200.3.152.79 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.79 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.79 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.79 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.79 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.79 Colombia Bogotá CO -74.0617 4.6493
+181.57.223.42 Colombia Bogotá CO -74.0617 4.6493
+181.65.209.3 Peru Lima PE -77.0428 -12.0464
+181.48.5.169 Colombia Bogotá CO -74.0617 4.6493
+190.151.216.132 Colombia Pereira CO -75.6961 4.8133
+190.145.221.13 Colombia Bogotá CO -74.0617 4.6493
+190.145.221.13 Colombia Bogotá CO -74.0617 4.6493
+191.89.159.140 Colombia Armenia CO -75.6811 4.5339
+181.49.92.180 Colombia Medellín CO -75.5646 6.2529
+200.16.118.248 Colombia Bucaramanga CO -73.1198 7.1254
+131.104.23.17 Canada Guelph CA -80.2257 43.5184
+131.104.23.17 Canada Guelph CA -80.2257 43.5184
+201.245.162.114 Colombia Bogotá CO -74.0617 4.6493
+201.245.168.123 Colombia Bogotá CO -74.0617 4.6493
+190.26.192.194 Colombia None CO -74.0758 4.5981
+200.91.206.98 Colombia Bogotá CO -74.0617 4.6493
+200.3.193.132 Colombia Santiago de Cali CO -76.5232 3.4384
+190.109.181.188 Colombia None CO -74.0758 4.5981
+190.144.32.210 Colombia Medellín CO -75.5646 6.2529
+191.109.156.48 Colombia Bogotá CO -74.0617 4.6493
+181.54.155.102 Colombia Medellín CO -75.5646 6.2529
+88.0.183.52 Spain Melilla ES -2.9383 35.2937
+181.61.253.56 Colombia Bogotá CO -74.0617 4.6493
+190.145.245.206 Colombia Villavicencio CO -73.6266 4.142
+190.121.146.50 Colombia Barranquilla CO -74.7837 10.9711
+91.179.148.233 Belgium Brussels BE 4.3557 50.8451
+200.16.118.248 Colombia Bucaramanga CO -73.1198 7.1254
+200.118.146.70 Colombia Bogotá CO -74.0617 4.6493
+181.57.243.15 Colombia Bogotá CO -74.0617 4.6493
+190.156.111.132 Colombia Medellín CO -75.5646 6.2529
+200.3.152.18 Colombia Bogotá CO -74.0617 4.6493
+181.54.95.82 Colombia Bogotá CO -74.0617 4.6493
+186.155.241.122 Colombia Bogotá CO -74.0617 4.6493
+200.24.27.146 Colombia Medellín CO -75.5646 6.2529
+190.124.96.135 Colombia Bucaramanga CO -73.1198 7.1254
+190.242.129.218 Colombia Bucaramanga CO -73.1198 7.1254
+181.57.128.228 Colombia Medellín CO -75.5646 6.2529
+201.234.181.230 Colombia Medellín CO -75.5646 6.2529
+201.234.181.230 Colombia Medellín CO -75.5646 6.2529
+201.234.181.230 Colombia Medellín CO -75.5646 6.2529
+179.53.90.97 Dominican Republic Santo Domingo Este DO -69.894 18.4657
+170.82.40.116 Colombia Barranquilla CO -74.7837 10.9711
+200.6.170.133 Colombia Cúcuta CO -72.5078 7.8939
+191.88.178.66 Colombia Manizales CO -75.5174 5.0689
+190.70.77.43 Colombia Manizales CO -75.5174 5.0689
+190.70.77.43 Colombia Manizales CO -75.5174 5.0689
+181.58.157.104 Colombia Armenia CO -75.6811 4.5339
+181.58.157.104 Colombia Armenia CO -75.6811 4.5339
+170.254.228.136 Colombia None CO -74.0758 4.5981
+190.25.139.218 Colombia None CO -74.0758 4.5981
+191.88.117.172 Colombia Medellín CO -75.5646 6.2529
+200.16.118.248 Colombia Bucaramanga CO -73.1198 7.1254
+190.27.214.3 Colombia Bogotá CO -74.0617 4.6493
+190.27.214.3 Colombia Bogotá CO -74.0617 4.6493
+190.27.214.3 Colombia Bogotá CO -74.0617 4.6493
+200.16.118.248 Colombia Bucaramanga CO -73.1198 7.1254
+190.184.140.184 Colombia Bucaramanga CO -73.1198 7.1254
+200.16.119.154 Colombia Bucaramanga CO -73.1198 7.1254
+190.131.244.2 Colombia Medellín CO -75.5646 6.2529
+200.91.206.98 Colombia Bogotá CO -74.0617 4.6493
+186.170.212.74 Colombia Neiva CO -75.2819 2.9273
+45.5.172.126 Colombia Santiago de Cali CO -76.5232 3.4384
+190.242.112.2 Colombia Medellín CO -75.5646 6.2529
+200.93.135.250 Colombia None CO -74.0758 4.5981
+186.28.70.40 Colombia Bogotá CO -74.0617 4.6493
+190.85.158.138 Colombia Bogotá CO -74.0617 4.6493
+181.49.86.242 Colombia Santiago de Cali CO -76.5232 3.4384
+87.138.80.141 Germany Dombuhl DE 10.2854 49.2535
+190.90.112.70 Colombia Popayan CO -76.6132 2.4382
+181.60.104.79 Colombia Ibague CO -75.2322 4.4389
+157.253.70.156 Colombia Bogotá CO -74.0617 4.6493
+181.143.161.22 Colombia Medellín CO -75.5646 6.2529
+186.154.247.228 Colombia None CO -74.0758 4.5981
+186.80.74.228 Colombia Bogotá CO -74.0617 4.6493
+181.61.152.39 Colombia Medellín CO -75.5646 6.2529
+181.61.152.39 Colombia Medellín CO -75.5646 6.2529
+181.61.152.39 Colombia Medellín CO -75.5646 6.2529
+181.61.152.39 Colombia Medellín CO -75.5646 6.2529
+186.80.48.43 Colombia Bogotá CO -74.0617 4.6493
+190.60.194.2 Colombia Santiago de Cali CO -76.5232 3.4384
+201.234.64.76 Colombia None CO -74.0758 4.5981
+181.62.184.132 Colombia Santiago de Cali CO -76.5232 3.4384
+186.155.13.62 Colombia Bogotá CO -74.0617 4.6493
+186.155.233.218 Colombia Medellín CO -75.5646 6.2529
+186.30.174.101 Colombia Bogotá CO -74.0617 4.6493
+186.80.48.43 Colombia Bogotá CO -74.0617 4.6493
+181.57.241.55 Colombia Bogotá CO -74.0617 4.6493
+181.61.233.213 Colombia Bogotá CO -74.0617 4.6493
+201.217.214.30 Colombia None CO -74.0758 4.5981
+200.16.119.154 Colombia Bucaramanga CO -73.1198 7.1254
+186.31.116.126 Colombia Bogotá CO -74.0617 4.6493
+200.57.158.66 Mexico Apodaca MX -100.2135 25.7657
+200.24.16.24 Colombia Medellín CO -75.5646 6.2529
+192.86.100.204 United States Washington US -77.036 38.9208
+190.24.114.52 Colombia Bogotá CO -74.0617 4.6493
+201.216.46.2 Colombia Bogotá CO -74.0617 4.6493
+186.154.46.216 Colombia Bogotá CO -74.0617 4.6493
+201.216.46.2 Colombia Bogotá CO -74.0617 4.6493
+200.35.72.107 Venezuela Mérida VE -71.145 8.5983
+181.135.236.204 Colombia Medellín CO -75.5646 6.2529
+167.249.43.68 Colombia Neiva CO -75.2819 2.9273
+181.135.236.204 Colombia Medellín CO -75.5646 6.2529
+181.135.236.204 Colombia Medellín CO -75.5646 6.2529
+181.135.236.204 Colombia Medellín CO -75.5646 6.2529
+186.84.155.130 Colombia Bogotá CO -74.0617 4.6493
+194.214.160.153 France None FR 2.3387000000000002 48.8582
+181.49.93.68 Colombia Medellín CO -75.5646 6.2529
+186.147.66.94 Colombia Bogotá CO -74.0617 4.6493
+200.26.152.170 Colombia Bogotá CO -74.0617 4.6493
+181.236.226.141 Colombia Bucaramanga CO -73.1198 7.1254
+181.225.105.254 Colombia Bogotá CO -74.0617 4.6493
+186.145.159.105 Colombia Bogotá CO -74.0617 4.6493
+181.49.93.68 Colombia Medellín CO -75.5646 6.2529
+190.242.112.2 Colombia Medellín CO -75.5646 6.2529
+181.49.93.68 Colombia Medellín CO -75.5646 6.2529
+190.131.221.66 Colombia Cartagena CO -75.5144 10.3997
+191.109.113.250 Colombia Cúcuta CO -72.5078 7.8939
+190.24.114.52 Colombia Bogotá CO -74.0617 4.6493
+186.87.231.217 Colombia Bogotá CO -74.0617 4.6493
+200.159.15.249 Brazil Santo André BR -46.5638 -23.6266
+181.49.80.31 Colombia Santiago de Cali CO -76.5232 3.4384
+181.49.80.31 Colombia Santiago de Cali CO -76.5232 3.4384
+181.49.80.31 Colombia Santiago de Cali CO -76.5232 3.4384
+181.49.80.31 Colombia Santiago de Cali CO -76.5232 3.4384
+181.49.80.31 Colombia Santiago de Cali CO -76.5232 3.4384
+161.18.122.248 Colombia Bogotá CO -74.0617 4.6493
+181.49.80.31 Colombia Santiago de Cali CO -76.5232 3.4384
+181.225.72.1 Colombia Bogotá CO -74.0617 4.6493
+190.217.57.199 Colombia Medellín CO -75.5646 6.2529
+181.57.174.146 Colombia Medellín CO -75.5646 6.2529
+190.242.47.92 Colombia None CO -74.0758 4.5981
+186.31.2.250 Colombia Bogotá CO -74.0617 4.6493
+186.147.41.162 Colombia Bogotá CO -74.0617 4.6493
+168.176.241.76 Colombia Bogotá CO -74.0617 4.6493
+190.25.241.162 Colombia Medellín CO -75.5646 6.2529
+150.214.75.181 Spain Cadiz ES -6.2797 36.5158
+200.3.193.133 Colombia Santiago de Cali CO -76.5232 3.4384
+190.60.233.2 Colombia Medellín CO -75.5646 6.2529
+190.60.233.2 Colombia Medellín CO -75.5646 6.2529
+190.60.233.2 Colombia Medellín CO -75.5646 6.2529
+190.60.233.2 Colombia Medellín CO -75.5646 6.2529
+190.236.59.56 Peru Bellavista PE -76.5333 -7.0667
+190.236.59.56 Peru Bellavista PE -76.5333 -7.0667
+131.221.40.19 Colombia Monterrey CO -72.8988 4.8721
+161.18.122.248 Colombia Bogotá CO -74.0617 4.6493
+186.29.218.152 Colombia Bogotá CO -74.0617 4.6493
+186.1.180.158 Colombia Cienaga CO -74.2476 11.007
+200.72.191.174 Chile Santiago CL -70.6653 -33.4513
+181.49.188.10 Colombia Medellín CO -75.5646 6.2529
+200.3.152.18 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.18 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.18 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.18 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.18 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.18 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.18 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.18 Colombia Bogotá CO -74.0617 4.6493
+200.3.152.18 Colombia Bogotá CO -74.0617 4.6493
+150.214.75.181 Spain Cadiz ES -6.2797 36.5158
+190.104.238.124 Argentina Buenos Aires AR -58.3845 -34.6021
+168.176.239.33 Colombia Bogotá CO -74.0617 4.6493
+186.154.53.195 Colombia Bogotá CO -74.0617 4.6493
+199.79.165.2 United States None US -97.822 37.751
+200.93.135.250 Colombia None CO -74.0758 4.5981
+190.143.88.127 Colombia Medellín CO -75.5646 6.2529
+213.221.200.82 Switzerland Bern CH 7.4481 46.9458
+213.221.200.82 Switzerland Bern CH 7.4481 46.9458
+190.143.88.127 Colombia Medellín CO -75.5646 6.2529
+186.87.141.254 Colombia Medellín CO -75.5646 6.2529
+186.155.165.190 Colombia Bogotá CO -74.0617 4.6493
+181.62.58.88 Colombia Medellín CO -75.5646 6.2529
+167.249.43.43 Colombia Neiva CO -75.2819 2.9273
+190.27.214.3 Colombia Bogotá CO -74.0617 4.6493
+190.27.214.3 Colombia Bogotá CO -74.0617 4.6493
+190.27.214.3 Colombia Bogotá CO -74.0617 4.6493
+190.27.214.3 Colombia Bogotá CO -74.0617 4.6493
+190.13.31.212 Colombia Bucaramanga CO -73.1198 7.1254
+190.13.48.240 Colombia Bucaramanga CO -73.1198 7.1254
+181.58.251.230 Colombia Bucaramanga CO -73.1198 7.1254
+152.204.128.134 Colombia None CO -74.0758 4.5981
+186.154.157.117 Colombia Bogotá CO -74.0617 4.6493
+181.49.81.173 Colombia Santiago de Cali CO -76.5232 3.4384
+200.93.168.114 Colombia Bogotá CO -74.0617 4.6493
+201.245.168.123 Colombia Bogotá CO -74.0617 4.6493
+168.176.241.78 Colombia Bogotá CO -74.0617 4.6493
+190.186.129.218 Bolivia Santa Cruz BO -66.25 -12.2833
+190.216.129.188 Colombia Bogotá CO -74.0617 4.6493
