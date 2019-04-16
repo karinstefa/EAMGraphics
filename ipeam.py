@@ -1,3 +1,6 @@
+import pandas as pd
+#from ggplot import *
+import matplotlib.pyplot as plt
 
 
 data = {}
@@ -19,7 +22,19 @@ for line in df.readlines():
 
     #pass        
     #print(myValue)
-    
-    
-print(data)
 
+#gr = ggplot(aes())
+from collections import OrderedDict
+
+d_sorted_by_value = OrderedDict(sorted(data.items(), key=lambda x: x[1], reverse=True))
+
+
+
+plt.bar(list(d_sorted_by_value.keys()), d_sorted_by_value.values(), color='g')
+plt.show()
+
+print(data)
+"""
+for w in sorted(data, key=data.get, reverse=True):
+    print(w, data[w])
+"""
